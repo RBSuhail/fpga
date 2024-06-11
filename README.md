@@ -73,3 +73,21 @@ This project demonstrated an effective approach to image processing using Verilo
 #Acknowledgments
 We would like to thank our college and the organizers of Aabiskar 2024 for allowing us to present our work. Special thanks to our mentors and peers for their support and guidance.
 
+
+![image](https://github.com/RBSuhail/fpga/assets/114150506/1ea8341b-5804-4c24-888f-a10a15a8f9bd)
+#Gaussian mask
+![image](https://github.com/RBSuhail/fpga/assets/114150506/c6ab6701-28bc-4c26-be4c-7eadd7a054bc)
+![image](https://github.com/RBSuhail/fpga/assets/114150506/7daed31e-c4e1-4f2b-8246-af858ec5001c)
+
+#Convolution operation
+![image](https://github.com/RBSuhail/fpga/assets/114150506/05d621fb-7f32-442e-a79b-90e6d3279eba)
+![image](https://github.com/RBSuhail/fpga/assets/114150506/94b606b0-d6f6-4674-8410-e12461b8e0cc)
+
+![image](https://github.com/RBSuhail/fpga/assets/114150506/b1289e03-e6c4-4b56-8af5-c036c1d1dd7c)
+
+#State Diagram
+![image](https://github.com/RBSuhail/fpga/assets/114150506/84e47232-ee48-453d-aefa-32d659af66eb)
+![image](https://github.com/RBSuhail/fpga/assets/114150506/8b5db831-f4ae-4669-92a7-79c1feba5fe1)
+                      #     Booth Multiplier
+![image](https://github.com/RBSuhail/fpga/assets/114150506/3af9b16d-6824-4ea1-80a2-e559e1637b03)
+![image](https://github.com/RBSuhail/fpga/assets/114150506/b07eacf8-6f3d-4b0b-b14d-a6c0b59c6485)
