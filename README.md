@@ -32,35 +32,44 @@ The project consists of several Verilog modules that work together to achieve th
 ### Top Module
 The top module initializes the RAM with the image data, instantiates the DataPath and Controller modules, and manages the overall operation flow.
 
+
+
+
 ```Verilog
 module top_module;
     // Code for the top module
 end module
-
+```
 #DataPath Module
 The DataPath module performs the core image processing operations. It reads pixel values, applies the Gaussian Kernel, and stores the results back into RAM.
 
 Verilog
 Copy code
+```Verilog
 module datapath;
     // Code for the DataPath module
 end module
+```
 #Controller Module
 The Controller module sequences the operations, controlling when the DataPath reads, processes, and writes data.
 
 Verilog
 Copy code
+```Verilog
 module controller;
     // Code for the Controller module
 end module
+```
 RAM Module
 The RAM module stores the image data. It supports read and write operations required for image processing.
 
 Verilog
 Copy code
+```Verilog
 module ram;
     // Code for the RAM module
 end module
+```
 #Simulation and Testing
 The design was simulated and tested using Xilinx ISE/Vivado to ensure that the image blurring operation works correctly. Testbenches were written to validate each module and the overall system.
 
@@ -72,6 +81,7 @@ This project demonstrated an effective approach to image processing using Verilo
 
 #Acknowledgments
 We would like to thank our college and the organizers of Aabiskar 2024 for allowing us to present our work. Special thanks to our mentors and peers for their support and guidance.
+
 
 
 ![image](https://github.com/RBSuhail/fpga/assets/114150506/1ea8341b-5804-4c24-888f-a10a15a8f9bd)
