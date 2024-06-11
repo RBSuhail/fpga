@@ -37,7 +37,7 @@ module top_module;
     // Code for the top module
 end module
 
-DataPath Module
+#DataPath Module
 The DataPath module performs the core image processing operations. It reads pixel values, applies the Gaussian Kernel, and stores the results back into RAM.
 
 Verilog
@@ -45,7 +45,7 @@ Copy code
 module datapath;
     // Code for the DataPath module
 end module
-Controller Module
+#Controller Module
 The Controller module sequences the operations, controlling when the DataPath reads, processes, and writes data.
 
 Verilog
@@ -61,15 +61,15 @@ Copy code
 module ram;
     // Code for the RAM module
 end module
-Simulation and Testing
+#Simulation and Testing
 The design was simulated and tested using Xilinx ISE/Vivado to ensure that the image blurring operation works correctly. Testbenches were written to validate each module and the overall system.
 
-Results
+#Results
 The project successfully blurred the 12x12 grayscale image using the Gaussian Kernel. The implementation met all design requirements and was verified through simulation.
 
-Conclusion
+#Conclusion
 This project demonstrated an effective approach to image processing using Verilog. The combination of DataPath and Controller design allowed for efficient handling of the image blurring task. The success of this project was recognized with a first-place award at the Aabiskar 2024 Technical Fest.
 
-Acknowledgments
-We would like to thank our college and the organizers of Aabiskar 2024 for providing us with the opportunity to present our work. Special thanks to our mentors and peers for their support and guidance.
+#Acknowledgments
+We would like to thank our college and the organizers of Aabiskar 2024 for allowing us to present our work. Special thanks to our mentors and peers for their support and guidance.
 
