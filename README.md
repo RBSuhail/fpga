@@ -98,3 +98,4 @@ We would like to thank our college and the organizers of Aabiskar 2024 for allow
 ### Booth Multiplier
 ![image](https://github.com/RBSuhail/fpga/assets/114150506/3af9b16d-6824-4ea1-80a2-e559e1637b03)
 ![image](https://github.com/RBSuhail/fpga/assets/114150506/b07eacf8-6f3d-4b0b-b14d-a6c0b59c6485)
+
